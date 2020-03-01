@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Commande</string>
+    <string name="item_default_name">Ref Client</string>
+    <string name="item_default_price">Montant</string>
+    <string name="item_visibility">invisible</string>
+
+    <string-array name="type_client">
+        <item>Grossiste</item>
+        <item>Client Fidèle</item>
+        <item>Client Normale</item>
+    </string-array>
+</resources>
